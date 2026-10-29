@@ -2,7 +2,7 @@
 
 # SWZ Printer
 
-**Imprimantes à argent pour DarkRP : 4 paliers, écran 3D interactif, 100 % configurable.**
+**Printer pour DarkRP : 4 paliers, écran 3D interactif, 100 % configurable.**
 
 [![TÉLÉCHARGER L'ADDON](https://img.shields.io/badge/-T%C3%89L%C3%89CHARGER%20L'ADDON-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sweezyskz/swz-printer/releases/latest)
 [![CONTENU WORKSHOP](https://img.shields.io/badge/-CONTENU%20WORKSHOP-3b82f6?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/sharedfiles/filedetails/?id=3829228668)
@@ -17,7 +17,7 @@
 
 ## Présentation
 
-Quatre imprimantes (**Bronze**, **Silver**, **Gold**, **Diamond**) avec un vrai modèle 3D et un **écran interactif posé sur le boîtier**. Le joueur regarde l'écran, appuie sur `E` et gère son imprimante : batterie, argent produit, température et santé s'affichent en direct, avec des jauges animées.
+Quatre printer (**Bronze**, **Silver**, **Gold**, **Diamond**) avec un vrai modèle 3D et un **écran interactif posé sur le boîtier**. Le joueur regarde l'écran, appuie sur `E` et gère son printer : batterie, argent produit, température et santé s'affichent en direct, avec des jauges animées.
 
 ### Fonctionnalités
 
@@ -27,7 +27,7 @@ Quatre imprimantes (**Bronze**, **Silver**, **Gold**, **Diamond**) avec un vrai 
 - Ventilateur qui tourne, voyants lumineux, bruit de fonctionnement
 - Écran lisible de près, version simplifiée de loin
 - Achat au F4 (DarkRP) et dans le menu Q, avec une icône par palier
-- Imprimante destructible, avec sac d'argent au sol
+- Printer destructible, avec sac d'argent au sol
 - Chargeur dans la console au démarrage (état du chargement)
 
 ### 100 % configurable
@@ -55,7 +55,7 @@ Le modèle 3D et ses textures sont dans un item Workshop séparé :
   resource.AddWorkshop("3829228668")
   ```
 
-Les joueurs téléchargent le contenu automatiquement à la connexion. Sans lui, les imprimantes s'affichent avec un boîtier de remplacement, sans ventilateur ni écran calé.
+Les joueurs téléchargent le contenu automatiquement à la connexion. Sans lui, les printers s'affichent avec un boîtier de remplacement, sans ventilateur ni écran calé.
 
 **Prérequis :** DarkRP.
 
