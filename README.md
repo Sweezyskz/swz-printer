@@ -1,7 +1,3 @@
-<div align="center">
-
-<img src="assets/banner.png" alt="SWZ Printer" width="100%">
-
 # SWZ Printer
 
 **Imprimantes à argent pour DarkRP : 4 paliers, écran 3D interactif, 100 % configurable.**
